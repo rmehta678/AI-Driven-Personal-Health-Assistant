@@ -1,10 +1,9 @@
 # AI-Driven-Personal-Health-Assistant
 
-Project Title: HealthChat - AI-driven Personal Health Assistant
+Project Title: Transformer-Based Health Advisor with MLOps and RAG Integration
 Overview:
 
 Goal: Develop and deploy advanced generative AI solutions for fitness/health, integrating all required technologies and skills.
-*  Project 5: Transformer-Based Health Advisor with MLOps and RAG Integration
 	*  Objective: Build a transformer-based virtual health advisor generating personalized workout/nutrition plans, enhanced with RAG pipelines and MLOps, deployed on NVIDIA infrastructure.
 	*  Dataset: Custom fitness/health logs (e.g., heart rate, diet) from Kaggle or synthetic data (~10,000 records).
 	*  Steps:
